@@ -8,3 +8,6 @@
 
 ##Homework 2 is 
 [Here](files/IE582_HW2.html).
+
+##Homework 3 is 
+[Here](files/IE582_HW3.html).
