@@ -11,3 +11,6 @@
 
 ##Homework 3 is 
 [Here](files/IE582_HW3.html).
+
+##Homework 4 is 
+[Here](files/IE582_HW4.html).
